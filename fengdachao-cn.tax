@@ -90,8 +90,8 @@
 
 %----------个人信息-----------------
 \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-  \textbf{\href{http://your.web.page}{\Large 你的名字}} & 邮箱 : \href{mailto:your@email.com}{your@email.com}\\
-  \href{http://your.web.page/}{http://your.web.page} & 手机 : \href{tel:+8611234567890}{+86-112-3456-7890} \\
+  \textbf{\href{http://your.web.page}{\Large 冯大超}} & 邮箱 : \href{mailto:fengdachao@aliyun.com}{fengdachao@aliyun.com}\\
+手机 : \href{tel:+8611234567890}{13311071079} \\
 \end{tabular*}
 
 
